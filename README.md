@@ -16,3 +16,14 @@ The model was trained on the ASL Alphabet dataset.
 [ASL Dataset – Google Drive](https://drive.google.com/file/d/1r9JAW_QIjk9OV-wzviOUfUzhywp-mzfs/view?usp=sharing)  
 After downloading, extract and place it in the `dataset/` folder in the root directory.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b8e23265-caa9-436e-a55e-c678dc09efc5" width="400"/>
+  <img width="403" height="623" alt="image" src="https://github.com/user-attachments/assets/885a19b6-5ce5-43b4-a634-ffd0f71c1714" />
+  <img width="417" height="560" alt="image" src="https://github.com/user-attachments/assets/62348f88-6289-4489-8d89-6e3abc659764" />
+  <img width="409" height="557" alt="image" src="https://github.com/user-attachments/assets/a9fe5888-73fb-4c9d-aa2b-3d7e64422704" />
+
+
+
+</p>
+
+
