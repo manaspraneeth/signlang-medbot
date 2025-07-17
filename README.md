@@ -29,4 +29,11 @@ DEMO:
 
 </p>
 
+**How it works:**
+1. User shows an ASL gesture within the green region of interest (ROI).
+2. The system recognizes the gesture using a deep learning model (MobileNetV2).
+3. Each recognized letter is added to form a word or query.
+4. Pressing `ENTER` sends the text query to the chatbot.
+5. The chatbot returns a real-time medical response (shown on screen and spoken out loud).
 
+*Goal:* Enable real-time medical communication for hearing-impaired users using computer vision and AI.
